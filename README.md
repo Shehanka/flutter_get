@@ -1,6 +1,6 @@
 # flutter_get
 
-A new Flutter project.
+A new Flutter getting started project.
 
 ## Getting Started
 
